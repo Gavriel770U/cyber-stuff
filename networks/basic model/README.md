@@ -1,7 +1,7 @@
 ### page 49, exercise 2.6
 
 ### link to book:
-[(https://)]https://data.cyber.org.il/networks/networks.pdf
+https://data.cyber.org.il/networks/networks.pdf
 
 ### info:
 server-client model that provides some basic test functions and uses simple protocol.
