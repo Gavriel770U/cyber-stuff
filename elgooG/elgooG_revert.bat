@@ -1,0 +1,1 @@
+netsh interface ip set dnsservers name="Local Area Connection" source=dhcp
